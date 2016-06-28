@@ -12,7 +12,7 @@ I designed a program which was required to satisfy type checking rules and speci
   } 
 }
 ```
-** Below is program output **
+**Below is program output**
 ```
 a: bool #
 b: int #
@@ -26,7 +26,7 @@ c: int;
   y = ! true; 
 }
 ```
-** Below is program output **
+**Below is program output**
 ```
 a: int #
 b: int #
@@ -48,7 +48,7 @@ y: bool #
     v = 0.0;
 }
 ```
-** Below is program output **
+**Below is program output**
 ```
 r: real #
 s: real #
